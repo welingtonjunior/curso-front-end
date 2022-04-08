@@ -1,5 +1,5 @@
 # curso-front-end
-#### Ebac
+
 # GIT
 ## Conceitos de versionamento
 - Histório
@@ -22,6 +22,10 @@ Arquivo B | Versão 1 | Versão 2
 ## Commitis
 Informação de alteração
 - após testado todo seu código
+- git add *
+- git commit - 'mensagem'
+- git push (enviar alterações para o repositório)
+
 
 ## GitFlow
 Fluxo do Git
