@@ -1,5 +1,5 @@
 # curso-front-end
-
+#### ebac
 # GIT
 ## Conceitos de versionamento
 - Histório
@@ -25,7 +25,7 @@ Informação de alteração
 - git add *
 - git commit - 'mensagem'
 - git push (enviar alterações para o repositório)
-
+- git pull(puxar alterações do GitHub para a máquina)
 
 ## GitFlow
 Fluxo do Git
